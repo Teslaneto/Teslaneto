@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gnetoofc@gmai.com)
 
-![Geraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Teslaneto&show_icons=true&theme=gruvbox)
+
 
 
 ## Tecnologias que eu uso no meu dia
