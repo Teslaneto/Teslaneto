@@ -22,5 +22,3 @@
 </div>
 
 <br/>
-
-Apaixonado por tecnologia, educação e por mudar vida das pessoas através da programação.
