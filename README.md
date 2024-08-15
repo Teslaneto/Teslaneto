@@ -1,6 +1,6 @@
 
 
-### Olá! eu sou o Geraldo Neto 
+### Olá! eu sou o Geraldo Neto.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-neto-7826a5260)
 
