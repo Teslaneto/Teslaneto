@@ -18,6 +18,7 @@
       <img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       <img align="center" alt="css" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img align="center" alt="css" src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)" />
 
 </div>
 
