@@ -7,7 +7,6 @@
 
 
 ## 🖥️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-Java%20Server%20Pages-orange)
 ![JSF](https://img.shields.io/badge/JSF-JavaServer%20Faces-blue)
